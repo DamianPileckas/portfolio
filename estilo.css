@@ -647,6 +647,7 @@ footer .arriba{
 @media screen and (max-width:980px){
     nav{
         display: none;
+        float:right
     }
     .nav-responsive{
         display: block;
